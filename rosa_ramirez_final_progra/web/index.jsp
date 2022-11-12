@@ -1,9 +1,8 @@
 <%-- 
-    Document   : index
-    Created on : 12/11/2022, 07:32:11
+    Document   : newjsp
+    Created on : 9/11/2022, 18:32:36
     Author     : ramir
 --%>
-
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
